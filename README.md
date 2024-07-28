@@ -1,7 +1,8 @@
-<CAR RENTAL>
-
 Car Rental System
+
+
 Developed a Java-based car rental system with enhanced customer loyalty and maintenance tracking features.
+
 Technologies Used: Java, Object-Oriented Programming (OOP), Java Collections Framework (ArrayList), Console I/O (Scanner).
 Features:
 Designed and implemented functionalities for car rentals, returns, and customer management.
